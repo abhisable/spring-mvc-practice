@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.example.mvcpractice</groupId>
+  <artifactId>spring-mvc-practice</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20241020071747</lastUpdated>
+  </versioning>
+</metadata>
