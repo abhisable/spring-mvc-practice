@@ -3,7 +3,7 @@
   <groupId>com.example.mvcpractice</groupId>
   <artifactId>spring-mvc-practice</artifactId>
   <versioning>
-    <lastUpdated>20241020103145</lastUpdated>
+    <lastUpdated>20241020103842</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20241020103145</updated>
+        <updated>20241020103842</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>war</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20241020103145</updated>
+        <updated>20241020103842</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
